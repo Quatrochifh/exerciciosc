@@ -8,7 +8,7 @@ namespace EXEMPLOCONSOLE
         {
 
         //finalizado!
-            Console.BackgroundColor = ConsoleColor.Green;  //só de graça
+            Console.ForegroundColor = ConsoleColor.Yellow;  //só de graça
             Console.WriteLine("qual o seu nome?");
             string nomeDaPessoa = Console.ReadLine();
 
@@ -16,8 +16,8 @@ namespace EXEMPLOCONSOLE
             Console.WriteLine("em que ano você nasceu??\n");
             int anonas = int.Parse(Console.ReadLine());
 
-            Console.WriteLine("Em qual ano estamos?\n");
-            int anonosso = int.Parse(Console.ReadLine());
+            //Console.WriteLine("Em qual ano estamos?\n");
+            int anonosso = DateTime.Now.Year;
 
             //Console.WriteLine(anonas - anonosso+"essa é a sua idade atual");aaaaaaaaaaaaaaaaaaaaaaaaa
 
@@ -26,6 +26,11 @@ namespace EXEMPLOCONSOLE
 
             int idadeSemana = idade * 12 * 4;
             Console.WriteLine("Você viveu por: " +  idadeSemana + " semanas");
+
+            if(idade >120)
+             {
+                Console.WriteLine("você não deveria estar aqui, acho que você deveria ir para o livro dos records");
+            }
         }
     }
 }
