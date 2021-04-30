@@ -1,0 +1,16 @@
+C:\Users\quatr\OneDrive\Documentos\exercicios_aulas_backend\Exercicio_desafio\bin\Debug\net5.0\Exercicio_desafio.exe
+C:\Users\quatr\OneDrive\Documentos\exercicios_aulas_backend\Exercicio_desafio\bin\Debug\net5.0\Exercicio_desafio.deps.json
+C:\Users\quatr\OneDrive\Documentos\exercicios_aulas_backend\Exercicio_desafio\bin\Debug\net5.0\Exercicio_desafio.runtimeconfig.json
+C:\Users\quatr\OneDrive\Documentos\exercicios_aulas_backend\Exercicio_desafio\bin\Debug\net5.0\Exercicio_desafio.runtimeconfig.dev.json
+C:\Users\quatr\OneDrive\Documentos\exercicios_aulas_backend\Exercicio_desafio\bin\Debug\net5.0\Exercicio_desafio.dll
+C:\Users\quatr\OneDrive\Documentos\exercicios_aulas_backend\Exercicio_desafio\bin\Debug\net5.0\ref\Exercicio_desafio.dll
+C:\Users\quatr\OneDrive\Documentos\exercicios_aulas_backend\Exercicio_desafio\bin\Debug\net5.0\Exercicio_desafio.pdb
+C:\Users\quatr\OneDrive\Documentos\exercicios_aulas_backend\Exercicio_desafio\obj\Debug\net5.0\Exercicio_desafio.csprojAssemblyReference.cache
+C:\Users\quatr\OneDrive\Documentos\exercicios_aulas_backend\Exercicio_desafio\obj\Debug\net5.0\Exercicio_desafio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quatr\OneDrive\Documentos\exercicios_aulas_backend\Exercicio_desafio\obj\Debug\net5.0\Exercicio_desafio.AssemblyInfoInputs.cache
+C:\Users\quatr\OneDrive\Documentos\exercicios_aulas_backend\Exercicio_desafio\obj\Debug\net5.0\Exercicio_desafio.AssemblyInfo.cs
+C:\Users\quatr\OneDrive\Documentos\exercicios_aulas_backend\Exercicio_desafio\obj\Debug\net5.0\Exercicio_desafio.csproj.CoreCompileInputs.cache
+C:\Users\quatr\OneDrive\Documentos\exercicios_aulas_backend\Exercicio_desafio\obj\Debug\net5.0\Exercicio_desafio.dll
+C:\Users\quatr\OneDrive\Documentos\exercicios_aulas_backend\Exercicio_desafio\obj\Debug\net5.0\ref\Exercicio_desafio.dll
+C:\Users\quatr\OneDrive\Documentos\exercicios_aulas_backend\Exercicio_desafio\obj\Debug\net5.0\Exercicio_desafio.pdb
+C:\Users\quatr\OneDrive\Documentos\exercicios_aulas_backend\Exercicio_desafio\obj\Debug\net5.0\Exercicio_desafio.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\quatr\OneDrive\Documentos\exercicios_aulas_backend\Exercicios-1-idadeconvertida\bin\Debug\net5.0\Exercicios-1-idadeconvertida.exe
+C:\Users\quatr\OneDrive\Documentos\exercicios_aulas_backend\Exercicios-1-idadeconvertida\bin\Debug\net5.0\Exercicios-1-idadeconvertida.deps.json
+C:\Users\quatr\OneDrive\Documentos\exercicios_aulas_backend\Exercicios-1-idadeconvertida\bin\Debug\net5.0\Exercicios-1-idadeconvertida.runtimeconfig.json
+C:\Users\quatr\OneDrive\Documentos\exercicios_aulas_backend\Exercicios-1-idadeconvertida\bin\Debug\net5.0\Exercicios-1-idadeconvertida.runtimeconfig.dev.json
+C:\Users\quatr\OneDrive\Documentos\exercicios_aulas_backend\Exercicios-1-idadeconvertida\bin\Debug\net5.0\Exercicios-1-idadeconvertida.dll
+C:\Users\quatr\OneDrive\Documentos\exercicios_aulas_backend\Exercicios-1-idadeconvertida\bin\Debug\net5.0\ref\Exercicios-1-idadeconvertida.dll
+C:\Users\quatr\OneDrive\Documentos\exercicios_aulas_backend\Exercicios-1-idadeconvertida\bin\Debug\net5.0\Exercicios-1-idadeconvertida.pdb
+C:\Users\quatr\OneDrive\Documentos\exercicios_aulas_backend\Exercicios-1-idadeconvertida\obj\Debug\net5.0\Exercicios-1-idadeconvertida.csprojAssemblyReference.cache
+C:\Users\quatr\OneDrive\Documentos\exercicios_aulas_backend\Exercicios-1-idadeconvertida\obj\Debug\net5.0\Exercicios-1-idadeconvertida.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quatr\OneDrive\Documentos\exercicios_aulas_backend\Exercicios-1-idadeconvertida\obj\Debug\net5.0\Exercicios-1-idadeconvertida.AssemblyInfoInputs.cache
+C:\Users\quatr\OneDrive\Documentos\exercicios_aulas_backend\Exercicios-1-idadeconvertida\obj\Debug\net5.0\Exercicios-1-idadeconvertida.AssemblyInfo.cs
+C:\Users\quatr\OneDrive\Documentos\exercicios_aulas_backend\Exercicios-1-idadeconvertida\obj\Debug\net5.0\Exercicios-1-idadeconvertida.csproj.CoreCompileInputs.cache
+C:\Users\quatr\OneDrive\Documentos\exercicios_aulas_backend\Exercicios-1-idadeconvertida\obj\Debug\net5.0\Exercicios-1-idadeconvertida.dll
+C:\Users\quatr\OneDrive\Documentos\exercicios_aulas_backend\Exercicios-1-idadeconvertida\obj\Debug\net5.0\ref\Exercicios-1-idadeconvertida.dll
+C:\Users\quatr\OneDrive\Documentos\exercicios_aulas_backend\Exercicios-1-idadeconvertida\obj\Debug\net5.0\Exercicios-1-idadeconvertida.pdb
+C:\Users\quatr\OneDrive\Documentos\exercicios_aulas_backend\Exercicios-1-idadeconvertida\obj\Debug\net5.0\Exercicios-1-idadeconvertida.genruntimeconfig.cache

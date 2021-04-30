@@ -1,0 +1,16 @@
+C:\Users\quatr\OneDrive\Documentos\exercicios_aulas_backend\Exercicio-3-reajuste\bin\Debug\net5.0\Exercicio-3-reajuste.exe
+C:\Users\quatr\OneDrive\Documentos\exercicios_aulas_backend\Exercicio-3-reajuste\bin\Debug\net5.0\Exercicio-3-reajuste.deps.json
+C:\Users\quatr\OneDrive\Documentos\exercicios_aulas_backend\Exercicio-3-reajuste\bin\Debug\net5.0\Exercicio-3-reajuste.runtimeconfig.json
+C:\Users\quatr\OneDrive\Documentos\exercicios_aulas_backend\Exercicio-3-reajuste\bin\Debug\net5.0\Exercicio-3-reajuste.runtimeconfig.dev.json
+C:\Users\quatr\OneDrive\Documentos\exercicios_aulas_backend\Exercicio-3-reajuste\bin\Debug\net5.0\Exercicio-3-reajuste.dll
+C:\Users\quatr\OneDrive\Documentos\exercicios_aulas_backend\Exercicio-3-reajuste\bin\Debug\net5.0\ref\Exercicio-3-reajuste.dll
+C:\Users\quatr\OneDrive\Documentos\exercicios_aulas_backend\Exercicio-3-reajuste\bin\Debug\net5.0\Exercicio-3-reajuste.pdb
+C:\Users\quatr\OneDrive\Documentos\exercicios_aulas_backend\Exercicio-3-reajuste\obj\Debug\net5.0\Exercicio-3-reajuste.csprojAssemblyReference.cache
+C:\Users\quatr\OneDrive\Documentos\exercicios_aulas_backend\Exercicio-3-reajuste\obj\Debug\net5.0\Exercicio-3-reajuste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quatr\OneDrive\Documentos\exercicios_aulas_backend\Exercicio-3-reajuste\obj\Debug\net5.0\Exercicio-3-reajuste.AssemblyInfoInputs.cache
+C:\Users\quatr\OneDrive\Documentos\exercicios_aulas_backend\Exercicio-3-reajuste\obj\Debug\net5.0\Exercicio-3-reajuste.AssemblyInfo.cs
+C:\Users\quatr\OneDrive\Documentos\exercicios_aulas_backend\Exercicio-3-reajuste\obj\Debug\net5.0\Exercicio-3-reajuste.csproj.CoreCompileInputs.cache
+C:\Users\quatr\OneDrive\Documentos\exercicios_aulas_backend\Exercicio-3-reajuste\obj\Debug\net5.0\Exercicio-3-reajuste.dll
+C:\Users\quatr\OneDrive\Documentos\exercicios_aulas_backend\Exercicio-3-reajuste\obj\Debug\net5.0\ref\Exercicio-3-reajuste.dll
+C:\Users\quatr\OneDrive\Documentos\exercicios_aulas_backend\Exercicio-3-reajuste\obj\Debug\net5.0\Exercicio-3-reajuste.pdb
+C:\Users\quatr\OneDrive\Documentos\exercicios_aulas_backend\Exercicio-3-reajuste\obj\Debug\net5.0\Exercicio-3-reajuste.genruntimeconfig.cache
