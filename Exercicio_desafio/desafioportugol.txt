@@ -1,0 +1,46 @@
+
+		escreva("insira seu nome\n")
+        enquanto(nomeDaPessoa)
+
+        escreva ("ola" + nome da pessoa + "!!")
+
+		escreva("Qual é a sua idade? \n")
+		leia (idadePessoa)
+		
+		se(idadePessoa < 5 ){
+		    escreva("Você não tem idade suficiente para participar")
+		}
+		
+		senao{
+		    se(idadePessoa <= 7){
+		        escreva("você está na: Infantil")
+		    }
+		    
+		    senao{
+		        se(idadePessoa < 10 ){
+		        escreva("você está na: Infantil B")
+		    }
+		
+		        senao{
+		            se(idadePessoa <= 13){
+		            escreva("você está na: Juvenil A")
+		        }
+		            senao{
+		                se(idadePessoa <= 17){
+		                escreva("você está na: Juvenil B")
+		            
+		        }
+		        
+		                senao {
+		                    escreva("você está na: Sênior")
+		            }
+		        }
+		    }
+		    
+		        
+		    }
+		}
+	}
+}
+
+}
